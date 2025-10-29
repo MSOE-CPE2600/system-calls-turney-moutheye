@@ -1,6 +1,9 @@
 CFLAGS=-c -g -Wall -Werror
 CC=gcc
-
+LDFLAGS = -lncurses
+SOURCES= vector.c main.c
+OBJECTS = $(SOURCES:.c=.o)
+EXECUTABLE= info
 all: info pinfo finfo pmod
 
 info: info.o
