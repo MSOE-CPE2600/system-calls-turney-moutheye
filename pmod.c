@@ -2,6 +2,8 @@
 * filename: pmod.c
 * author: Elias Mouthey
 * date: 10/29/25
+* lab 9
+* section: 121 
 * description:
 * Note: 
 */

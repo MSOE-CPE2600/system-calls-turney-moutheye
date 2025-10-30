@@ -2,7 +2,9 @@
 * filename: info.c
 * author: Elias Mouthey
 * date: 10/29/25
-* description:
+* lab 9
+* section: 121 
+* description: 
 * Note: 
 */
 #define _POSIX_C_SOURCE 199309L
